@@ -11,7 +11,7 @@ the application divided to two user interfaces.
     
     screen shot of User interface below:
     
-    <img src="./public/images/contact-us.svg" width="400">
+    <img src="./public/images/contact-us.png" width="400">
     
 - For Admins of the app:
     - they can visit [ /admin ] url
@@ -23,4 +23,8 @@ the application divided to two user interfaces.
     
     screen shots of the admin interfaces below:
     
-    <img src="./public/images/contact-us.svg" width="400">
+    <img src="./public/images/allmails.png" width="400">
+    <img src="./public/images/unreaded.png" width="400">
+    <img src="./public/images/allcontacts.png" width="400">
+    <img src="./public/images/addcontact.png" width="400">
+    <img src="./public/images/editcontacts.png.png" width="400">
