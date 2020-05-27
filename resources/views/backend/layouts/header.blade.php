@@ -10,6 +10,7 @@
     <link rel="author" href="https://plus.google.com/u/1/106310663276114892188"><link rel="publisher" href="https://plus.google.com/+Bootdey-bootstrap/posts">
 {{--    <script src="/cache-js/cache-1499634632-97135bbb13d92c11d6b2a92f6a36685a.js" type="text/javascript"></script>--}}
 
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
